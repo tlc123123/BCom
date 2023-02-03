@@ -29,7 +29,6 @@ namespace BlueSerial
             initView();
             serialPortListInit();
 
-            var sss = "23";
             scanComThread = new Thread(new ThreadStart(scanComTask));
             scanComThread.Start();
             
