@@ -1,0 +1,12 @@
+C:\Users\tlc\source\repos\tlc123123\BCom\bin\Debug\BCom.exe.config
+C:\Users\tlc\source\repos\tlc123123\BCom\bin\Debug\BCom.exe
+C:\Users\tlc\source\repos\tlc123123\BCom\bin\Debug\BCom.pdb
+C:\Users\tlc\source\repos\tlc123123\BCom\obj\Debug\BCom.csproj.AssemblyReference.cache
+C:\Users\tlc\source\repos\tlc123123\BCom\obj\Debug\BCom.csproj.SuggestedBindingRedirects.cache
+C:\Users\tlc\source\repos\tlc123123\BCom\obj\Debug\BlueSerial.MainForm.resources
+C:\Users\tlc\source\repos\tlc123123\BCom\obj\Debug\BCom.Properties.Resources.resources
+C:\Users\tlc\source\repos\tlc123123\BCom\obj\Debug\BCom.WxForm.resources
+C:\Users\tlc\source\repos\tlc123123\BCom\obj\Debug\BCom.csproj.GenerateResource.cache
+C:\Users\tlc\source\repos\tlc123123\BCom\obj\Debug\BCom.csproj.CoreCompileInputs.cache
+C:\Users\tlc\source\repos\tlc123123\BCom\obj\Debug\BCom.exe
+C:\Users\tlc\source\repos\tlc123123\BCom\obj\Debug\BCom.pdb
